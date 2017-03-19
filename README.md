@@ -46,15 +46,13 @@ $ git push origin feature_branch
    - Пропала из памяти :D
    - [Работа с матрицами](https://github.com/amm-vsu-2015/1y1s_basic/tree/master/task3) (найти наибольший/наименьший элемент, поменять столбцы местами)
    - [Работа со строками](https://github.com/amm-vsu-2015/1y1s_basic/blob/master/task4) (инверсия, поиск сиволов)
-  
+
    - [Работа с линейными списками](https://github.com/amm-vsu-2015/1y2s_basis/tree/master/task1) (добавление/удаление элементов)
    - [Работа с линейными кольцевыми/двунаправленными списками](https://github.com/amm-vsu-2015/1y2s_basis/tree/master/task2)
-   - Задачи на работу со стеками.
+   - [Задачи на работу со стеками](https://github.com/amm-vsu-2015/1y2s_basis/tree/master/task3).
    - Задачи на работу с очередями.
-  
+
 2. Второй курс
    - [Сравнить время выполнения двух популярных сортировок](https://github.com/amm-vsu-2015/2y1s_algorithms/tree/master/task1)
-  
-   - [Посчитать площадь остроугольного равнобедренного треугольника по трем сторонам.](https://github.com/amm-vsu-2015/2y2s_cpp/tree/master/task1)
-  
 
+   - [Посчитать площадь остроугольного равнобедренного треугольника по трем сторонам.](https://github.com/amm-vsu-2015/2y2s_cpp/tree/master/task1)
