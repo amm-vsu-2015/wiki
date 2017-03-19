@@ -7,17 +7,31 @@
 
 В форках нужно обновлять мастер-ветку каждый раз перед коммитом, так как ветка может быть обновлена другими людьми.
 
+
 Команды:
+========
 
 В папке склонированного проекта-форка добавляете ссылку на исходный проект (который форкнули).
-git remote add upstream git@github.com:amm-vsu-2015/wiki.git
+
+```Shell
+$ git remote add upstream git@github.com:amm-vsu-2015/wiki.git
+```
 
 Обновляем свой проект (скачиваем изменения из исходного проекта)
-git fetch upstream
+
+```Shell
+$ git fetch upstream
+```
 
 Делаем слияние ветки master своего локального проекта с веткой исходного проекта.
 Изменения будут сохранены в текущей ветке.
-git merge upstream/master
+
+```Shell
+$ git merge upstream/master
+```
 
 Отправляем обновленную мастер-ветку в свой форк на гитхаб.
-git push origin slow-blink
+
+```Shell
+$ git push origin feature_branch
+```
