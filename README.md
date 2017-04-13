@@ -54,5 +54,11 @@ $ git push origin feature_branch
 
 2. Второй курс
    - [Сравнить время выполнения двух популярных сортировок](https://github.com/amm-vsu-2015/2y1s_algorithms/tree/master/task1)
+   
+   - Задача о ходе коня.
+   
+   - Задача о ферзях.
+   
+   - Задачи на деревья.
 
    - [Посчитать площадь остроугольного равнобедренного треугольника по трем сторонам.](https://github.com/amm-vsu-2015/2y2s_cpp/tree/master/task1)
