@@ -62,3 +62,7 @@ $ git push origin feature_branch
    - [Задачи на деревья.](https://github.com/pavbox/libtree)
 
    - [Посчитать площадь остроугольного равнобедренного треугольника по трем сторонам.](https://github.com/amm-vsu-2015/2y2s_cpp/tree/master/task1)
+
+3. Третий курс (парадигмы)
+
+  - Linux / OOP
