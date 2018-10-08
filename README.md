@@ -1,11 +1,13 @@
-# Небольшая вики по работе с гитом
-
-Коммиты производятся либо из своих форков с пулл-реквестом, либо сразу в этот репозиторий.
+## Небольшая wiki по работе с git
 
 
-Пока никто не шлет код в этот репозиторий, делаем форки.
-
-В форках нужно обновлять мастер-ветку каждый раз перед коммитом, так как ветка может быть обновлена другими людьми.
+Простые правила поведения в репозиториях:
+```
+– Изменения в репозитории производятся с помощью пулл-реквестов через свои форки.
+– Перед созданием пулл-реквеста, необходимо стянуть актуальную master ветку и смержить ветку-фичу с ней.
+– При создании пулл-реквеста, добавить хотя бы минимальное описание.
+– Следить за неймингом и чистотой кода (по возможности).
+```
 
 
 Команды:
@@ -38,31 +40,34 @@ $ git push origin feature_branch
 
 
 
-
 # Список всех задач:
 
-1. Первый курс
+1. Первый курс (основы и pascal)
    - Простые арифметические задачи
    - Пропала из памяти :D
-   - [Работа с матрицами](https://github.com/amm-vsu-2015/1y1s_basic/tree/master/task3) (найти наибольший/наименьший элемент, поменять столбцы местами)
-   - [Работа со строками](https://github.com/amm-vsu-2015/1y1s_basic/blob/master/task4) (инверсия, поиск сиволов)
+   - [Задача на матрицы](https://github.com/amm-vsu-2015/1y1s_basic/tree/master/task3)
+   - [Задача на строки](https://github.com/amm-vsu-2015/1y1s_basic/tree/master/task4)
 
-   - [Работа с линейными списками](https://github.com/amm-vsu-2015/1y2s_basis/tree/master/task1) (добавление/удаление элементов)
-   - [Работа с линейными кольцевыми/двунаправленными списками](https://github.com/amm-vsu-2015/1y2s_basis/tree/master/task2)
-   - [Задачи на работу со стеками](https://github.com/amm-vsu-2015/1y2s_basis/tree/master/task3).
+   - [Задача на однонаправленные линейные списки](https://github.com/amm-vsu-2015/1y2s_basis/tree/master/task1)
+   - [Задача на двунаправленные линейные списки](https://github.com/amm-vsu-2015/1y2s_basis/tree/master/task2)
+   - [Задача на парсинг строк и файлы](https://github.com/amm-vsu-2015/1y2s_basis/tree/master/task3)
    - Задачи на работу с очередями.
 
-2. Второй курс
-   - [Сравнить время выполнения двух популярных сортировок](https://github.com/amm-vsu-2015/2y1s_algorithms/tree/master/task1)
+2. Второй курс (алгоритмы и C++)
+   - [Сравнить скорость выполнения двух сортировок](https://github.com/amm-vsu-2015/2y1s_algorithms/tree/master/task1)
+   - [Задача на ход коня](https://github.com/amm-vsu-2015/2y1s_algorithms/tree/master/task2)
+   - [Задача о восьми ферзях](https://github.com/amm-vsu-2015/2y1s_algorithms/tree/master/task3)
 
-   - [Задача о ходе коня.](https://github.com/amm-vsu-2015/2y1s_algorithms/tree/master/task2)
+   - [Простая геометрическая задача на треугольники](https://github.com/amm-vsu-2015/2y2s_cpp/tree/master/task1)
+   - [Задача поиск минимального значения в массиве с определенными условиями](https://github.com/amm-vsu-2015/2y2s_cpp/tree/master/task2)
+   - [Динамическая генерация лабиринта и поиск выхода](https://github.com/amm-vsu-2015/2y2s_cpp/tree/master/task3)
+   - [Задача на списки](https://github.com/amm-vsu-2015/2y2s_cpp/tree/master/task4)
 
-   - [Задача о ферзях.](https://github.com/amm-vsu-2015/2y1s_algorithms/tree/master/task3)
+3. Третий курс (ООП)
 
-   - [Задачи на деревья.](https://github.com/pavbox/libtree)
+  - [Математическая задача на конструкторы » task1 ](https://github.com/amm-vsu-2015/3y1s_oop/tree/master/task1)
+  - [Еще одна матем. задача с наследованием » task2](https://github.com/amm-vsu-2015/3y1s_oop/tree/master/task2)
+  - [Задача на создание сущностей студентов и производных классов » task3 ](https://github.com/amm-vsu-2015/3y1s_oop/tree/master/task3)
+  - [Задача на определение валидности строки, имеющей открывающие и закрывающие скобки » task4 ](https://github.com/amm-vsu-2015/3y1s_oop/tree/master/task4)
 
-   - [Посчитать площадь остроугольного равнобедренного треугольника по трем сторонам.](https://github.com/amm-vsu-2015/2y2s_cpp/tree/master/task1)
-
-3. Третий курс (парадигмы)
-
-  - Linux / OOP
+4. Четвертый курс (Java / Python)

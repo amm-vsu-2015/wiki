@@ -12,7 +12,7 @@ git clone git@github.com:amm-vsu-2015/3y1s_oop.git ../3rd_course/1st_semester/oo
 
 mkdir ../4th_course
 git clone git@github.com:amm-vsu-2015/4y1s_python.git ../4th_course/1st_semester/python
-git clone git@github.com:amm-vsu-2015/4y1s_python.git ../4th_course/1st_semester/java
+git clone git@github.com:amm-vsu-2015/4y1s_java.git ../4th_course/1st_semester/java
 
 mkdir ../5th_course
 mkdir ../5th_course/1st_semester
