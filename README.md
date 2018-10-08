@@ -65,9 +65,9 @@ $ git push origin feature_branch
 
 3. Третий курс (ООП)
 
-  - [Математическая задача на конструкторы » task1 ](https://github.com/amm-vsu-2015/3y1s_oop/tree/master/task1)
-  - [Еще одна матем. задача с наследованием » task2](https://github.com/amm-vsu-2015/3y1s_oop/tree/master/task2)
-  - [Задача на создание сущностей студентов и производных классов » task3 ](https://github.com/amm-vsu-2015/3y1s_oop/tree/master/task3)
-  - [Задача на определение валидности строки, имеющей открывающие и закрывающие скобки » task4 ](https://github.com/amm-vsu-2015/3y1s_oop/tree/master/task4)
+   - [Математическая задача на конструкторы » task1 ](https://github.com/amm-vsu-2015/3y1s_oop/tree/master/task1)
+   - [Еще одна матем. задача с наследованием » task2](https://github.com/amm-vsu-2015/3y1s_oop/tree/master/task2)
+   - [Задача на создание сущностей студентов и производных классов » task3 ](https://github.com/amm-vsu-2015/3y1s_oop/tree/master/task3)
+   - [Задача на определение валидности строки, имеющей открывающие и закрывающие скобки » task4 ](https://github.com/amm-vsu-2015/3y1s_oop/tree/master/task4)
 
 4. Четвертый курс (Java / Python)
