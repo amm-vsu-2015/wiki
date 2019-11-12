@@ -15,5 +15,6 @@ git clone git@github.com:amm-vsu-2015/4y1s_python.git ../4th_course/1st_semester
 git clone git@github.com:amm-vsu-2015/4y1s_java.git ../4th_course/1st_semester/java
 
 mkdir ../5th_course
-mkdir ../5th_course/1st_semester
+git clone git@github.com:amm-vsu-2015/5y1s_design_patterns.git ../5th_course/1st_semester/design_patterns
+git clone git@github.com:amm-vsu-2015/5y1s_infosec.git ../5th_course/1st_semester/infosec
 mkdir ../5th_course/2nd_semester
