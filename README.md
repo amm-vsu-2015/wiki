@@ -71,3 +71,7 @@ $ git push origin feature_branch
    - [Задача на определение валидности строки, имеющей открывающие и закрывающие скобки](https://github.com/amm-vsu-2015/3y1s_oop/tree/master/task4)
 
 4. Четвертый курс (Java / Python)
+
+5. Пятый курс (software design patterns / infosec)
+
+..
