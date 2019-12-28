@@ -72,6 +72,14 @@ $ git push origin feature_branch
 
 4. Четвертый курс (Java / Python)
 
+   - [python] [Задача на бросок объекта](https://github.com/amm-vsu-2015/4y1s_python/tree/master/homeworks/hw3)
+   - [python] [Просто список задачек](https://github.com/amm-vsu-2015/4y1s_python/tree/master/homeworks/hw4)
+   - [java] [Проверка матрицы на возрастание по траектории змейки](https://github.com/amm-vsu-2015/4y1s_java/tree/master/labs/easy_level/LinearSequenceMatrix)
+   - [java] [Обнуление столбца матрицы](https://github.com/amm-vsu-2015/4y1s_java/tree/master/labs/easy_level/MatrixZeroing)
+   - [java] [Обход шахматной доски королевой](https://github.com/amm-vsu-2015/4y1s_java/tree/master/labs/mid_level/QueensBoard)
+   - [java] [Design-driven development achitecture](https://github.com/amm-vsu-2015/outsource/tree/master/le/4th_course/java/RabbitBag)
+
+
 5. Пятый курс (software design patterns / infosec)
 
 ..
