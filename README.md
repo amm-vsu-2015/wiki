@@ -80,6 +80,10 @@ $ git push origin feature_branch
    - [java] [Design-driven development achitecture](https://github.com/amm-vsu-2015/outsource/tree/master/le/4th_course/java/RabbitBag)
 
 
-5. Пятый курс (software design patterns / infosec)
+5. Пятый курс (infosec / design patterns on swift)
 
-..
+   - [strategy pattern](https://github.com/amm-vsu-2015/5y1s_design_patterns/tree/master/strategy)
+   - [template pattern](https://github.com/amm-vsu-2015/5y1s_design_patterns/tree/master/template)
+   - [factory pattern](https://github.com/amm-vsu-2015/5y1s_design_patterns/tree/master/factory)
+   - [command pattern](https://github.com/amm-vsu-2015/5y1s_design_patterns/tree/master/command)
+   - [adapter pattern](https://github.com/amm-vsu-2015/5y1s_design_patterns/tree/master/adapter)
